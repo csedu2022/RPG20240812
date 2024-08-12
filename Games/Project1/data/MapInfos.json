@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"expanded":true,"name":"旅館 1F","order":3,"parentId":3,"scrollX":1088.7272727272727,"scrollY":657.8181818181819},
+{"id":2,"expanded":true,"name":"出生點","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":true,"name":"普通城鎮","order":2,"parentId":2,"scrollX":1071.2727272727273,"scrollY":736.3636363636364},
+{"id":4,"expanded":false,"name":"旅館 2F","order":4,"parentId":1,"scrollX":1088.7272727272727,"scrollY":657.8181818181819},
+{"id":5,"expanded":true,"name":"被詛咒的洞窟","order":5,"parentId":3,"scrollX":1071.2727272727273,"scrollY":1650.5454545454545},
+{"id":6,"expanded":true,"name":"石窟","order":6,"parentId":5,"scrollX":1071.2727272727273,"scrollY":808.3636363636364},
+{"id":7,"expanded":true,"name":"漂浮城市","order":7,"parentId":6,"scrollX":1328.7272727272727,"scrollY":1428},
+{"id":8,"expanded":true,"name":"熔岩窟","order":9,"parentId":5,"scrollX":1328.7272727272727,"scrollY":1495.6363636363637},
+{"id":9,"expanded":false,"name":"惡魔城堡 3F","order":8,"parentId":7,"scrollX":1071.2727272727273,"scrollY":1048.3636363636365},
+{"id":10,"expanded":false,"name":"故事結尾","order":10,"parentId":8,"scrollX":1088.7272727272727,"scrollY":631.6363636363636}
+]
